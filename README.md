@@ -1,11 +1,11 @@
-**Marriage Trends in Costa Rica (2014–2021)
+**Marriage Trends in Costa Rica (2014–2021)**
 
-**Project Overview
+**Project Overview**
 
-**Project Objective
+**Project Objective**
 The goal of this project is to analyze marriage trends in Costa Rica from 2014 to 2021, uncovering insights related to age, location, seasonality, and marriage type. This analysis helps us understand sociocultural patterns and factors influencing when and where people choose to get married.
 
-**Dataset Used
+**Dataset Used**
 We worked with a dataset containing marriage records from 2014 to 2021, including key variables such as:
 
 Demographics: Age, gender, nationality
@@ -18,7 +18,7 @@ Social & Economic Indicators: Occupation, previous marital status
 
 https://www.kaggle.com/datasets/liamarguedas/costa-rica-total-marriages-2014-2021
 
-**Key Questions & KPIs
+**Key Questions & KPIs**
 At what age do people get married, and are there differences by gender?
 
 KPI: Average age at marriage by gender
@@ -35,7 +35,9 @@ How does the type of marriage (civil vs. religious) vary by region?
 
 KPI: Distribution of civil vs. religious marriages by province
 
-**Process
+**Process**
+
+
 Exploratory Data Analysis (EDA)
 
 
@@ -63,7 +65,7 @@ Insights & Interpretation
 Identified patterns in age at marriage, geographical trends, and seasonality.
 
 
-**General Conclusions:
+**General Conclusions:**
 
 ✔️ Women tend to marry at a younger age than men.
 
@@ -71,7 +73,7 @@ Identified patterns in age at marriage, geographical trends, and seasonality.
 
 ✔️ Religious marriages are more common in some provinces, while civil marriages dominate in others.
 
-**One Big Finding: 
+**One Big Finding:**
 
 
 Seasonality in Marriage Patterns
