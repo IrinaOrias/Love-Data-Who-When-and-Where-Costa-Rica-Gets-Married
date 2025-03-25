@@ -14,6 +14,8 @@ Geographical data: Province, canton, district
 
 Social & Economic Indicators: Occupation, previous marital status
 
+https://www.kaggle.com/datasets/liamarguedas/costa-rica-total-marriages-2014-2021
+
 Key Questions & KPIs
 At what age do people get married, and are there differences by gender?
 
@@ -54,14 +56,20 @@ Insights & Interpretation
 
 Identified patterns in age at marriage, geographical trends, and seasonality.
 
- General Conclusions
+General Conclusions:
+
 ✔️ Women tend to marry at a younger age than men.
+
 ✔️ San José has the highest number of marriages.
+
 ✔️ Religious marriages are more common in some provinces, while civil marriages dominate in others.
 
- One Big Finding: Seasonality in Marriage Patterns
+One Big Finding: 
+
+
+Seasonality in Marriage Patterns
 Marriage trends in Costa Rica show a clear seasonal pattern.
-✅ December is consistently the most popular month for weddings, likely due to:
+December is consistently the most popular month for weddings, likely due to:
 
 Holidays & vacation periods (more time for celebrations).
 
