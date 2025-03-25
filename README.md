@@ -1,5 +1,7 @@
 Marriage Trends in Costa Rica (2014–2021)
+
 Project Overview
+
 Project Objective
 The goal of this project is to analyze marriage trends in Costa Rica from 2014 to 2021, uncovering insights related to age, location, seasonality, and marriage type. This analysis helps us understand sociocultural patterns and factors influencing when and where people choose to get married.
 
