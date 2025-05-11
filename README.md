@@ -12,7 +12,7 @@ In this project, I worked with real-world data on marriages in Costa Rica from 2
 
 ### **Why I Chose Excel for This Project**
 
-I found it important to start with a full Excel project because Excel is one of the most commonly used tools in real-world data roles. Building this project from start to finish helped me practice how to explore, clean, and analyze data, and most importantly, how to communicate insights clearly. For employers, it shows that I can take a raw dataset, make sense of it, and deliver useful information through organized dashboards and visuals. It also shows attention to detail and the ability to work independently on a data question—all valuable skills in any data-driven role.
+I found it important to start with a full Excel project because Excel is one of the most commonly used tools in real-world data roles. Building this project from start to finish helped me practice how to explore, clean, and analyze data, and most importantly, how to communicate insights clearly. It shows that I can take a raw dataset, make sense of it, and deliver useful information through organized dashboards and visuals. It also shows attention to detail and the ability to work independently on a data question—all valuable skills in any data-driven role.
 
 ---
 
