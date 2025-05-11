@@ -67,11 +67,11 @@ Identified patterns in age at marriage, geographical trends, and seasonality.
 
 **General Conclusions:**
 
-✔️ Women tend to marry at a younger age than men.
+Women tend to marry at a younger age than men.
 
-✔️ San José has the highest number of marriages.
+San José has the highest number of marriages.
 
-✔️ Religious marriages are more common in some provinces, while civil marriages dominate in others.
+Religious marriages are more common in some provinces, while civil marriages dominate in others.
 
 **One Big Finding:**
 
