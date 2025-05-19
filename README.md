@@ -1,85 +1,100 @@
-Costa Rica Marriage Trends (2014–2021)
-Excel-Based Data Analysis Project
-By Irina Orias Mendoza
+# **Costa Rica Marriage Trends (2014–2021)**  
+### *Excel-Based Data Analysis Project*  
+**By Irina Orias Mendoza**
 
-Project Overview
-This project explores marriage data from Costa Rica between 2014 and 2021. Using Microsoft Excel, I cleaned, analyzed, and visualized the dataset to uncover patterns related to age, location, marriage type (civil or religious), and seasonal trends.
+---
 
-The main goal was to strengthen my data analysis skills and learn how to turn raw data into useful insights. I focused on creating organized pivot tables, clear charts, and summary dashboards that tell a story.
+##  **Project Overview**  
+This project explores marriage data from Costa Rica between 2014 and 2021. Using Microsoft Excel, I cleaned, analyzed, and visualized the dataset to uncover patterns related to:
 
-Why Excel
-I chose Excel because it’s one of the most commonly used tools in real-world data work. It allowed me to build the project from start to finish without needing to code. This helped me practice how to clean and explore data, and most importantly, how to present findings in a clear and visual way.
+- Age at marriage  
+- Geographic distribution  
+- Marriage type (civil vs. religious)  
+- Seasonal trends  
 
-This project shows I can work independently, pay attention to detail, and communicate insights using real data.
+The goal was to strengthen my data analysis skills by turning raw records into useful insights using pivot tables, charts, and dashboards.
 
-Data Source
-The dataset comes from the Instituto Nacional de Estadística y Censos (INEC) in Costa Rica. It includes national marriage records from 2014 through 2021.
+---
 
-Steps I Followed
+## 🛠**Why Excel**  
+I chose Excel because it’s one of the most widely used tools in data jobs. It allowed me to:
 
-1. Initial Exploration
-I opened the dataset and reviewed all available columns. These included gender, age, nationality, type of marriage, occupation, and province of both residence and ceremony. I started thinking about possible questions the data could help answer.
+- Practice data cleaning without writing code  
+- Learn how to explore and summarize data visually  
+- Focus on developing analysis logic and storytelling  
 
-2. Listing Unique Values
-I made a list of all the unique values in each column to:
+This project shows that I can handle real-world data, work independently, and communicate results clearly.
 
-Spot inconsistent spelling (like “Setiembre” vs. “Septiembre”)
+---
 
-Understand the variety of categories (e.g., all types of marriages, provinces, occupations)
+##  **Data Source**  
+**Instituto Nacional de Estadística y Censos (INEC), Costa Rica**  
+Marriage records from 2014 to 2021, including demographics, location, union type, and other fields.
 
-3. Cleaning the Data
-Before starting the analysis, I cleaned the dataset:
+---
 
-Fixed spelling inconsistencies
+##  **Steps I Followed**
 
-Verified that age columns contained only valid numbers
+### **1. Initial Exploration**  
+- Reviewed all columns: age, gender, type of union, nationality, occupation, residence, and ceremony location  
+- Wrote down potential questions for analysis  
 
-Removed duplicates and outliers
+### **2. Listing Unique Values**  
+- Identified all distinct values per column  
+- Caught typos (e.g., *Setiembre* vs. *Septiembre*)  
+- Got an idea of categories like provinces and union types  
 
-Checked for missing or incorrect values
+### **3. Cleaning the Data**  
+- Standardized spelling for months and provinces  
+- Ensured numeric values in age columns  
+- Removed duplicates and unrealistic entries  
+- Handled missing or strange outliers  
 
-4. Structuring for Analysis
-I created new sheets in the Excel file to organize the data into smaller, cleaner tables. These were easier to use for pivot tables and visuals. I built separate sheets for average ages, marriage counts by year, and monthly patterns.
+### **4. Organizing for Analysis**  
+Created new sheets to organize clean tables for:  
+- Average age analysis  
+- Monthly trends  
+- Province-level insights  
 
-5. Analyzing Average Age at Marriage
-I used pivot tables to calculate average marriage age for men and women, based on their recorded age at the time of marriage. The data showed that women usually marry at a younger age than men.
+### **5. Analyzing Average Age at Marriage**  
+- Used pivot tables to calculate average marriage age by gender  
+- Found that women tend to marry at a younger age than men  
 
-6. Mapping Marriages by Province
-I looked at where people lived and where the ceremony took place. Using pivot tables and charts, I found that San José had the most marriages overall. I also compared civil vs. religious marriages by province.
+### **6. Mapping Marriages by Province**  
+- Compared residence vs. ceremony locations  
+- Highlighted that San José had the highest number of marriages  
 
-7. Exploring Seasonality
-I used bar charts to show how many marriages happened each month across the years. December was clearly the most popular month. I noted that this could be due to holiday traditions, end-of-year bonuses, or good weather.
+### **7. Seasonality Trends**  
+- Created bar charts for monthly marriage counts across years  
+- Discovered that December is consistently the most popular month  
 
-8. Creating Dashboards
-I built a summary dashboard to show all major findings. It includes:
+### **8. Building Dashboards**  
+- Pulled all tables and visuals into a clean summary dashboard  
+- Included key stats, trends, and easy-to-read graphs  
 
-Key statistics
+---
 
-Charts showing trends by month and year
+## **Key Questions Answered**  
+- What is the average age at marriage by gender?  
+- Which province has the most marriages?  
+- Do marriage trends change across seasons?  
+- Are civil or religious unions more common in certain areas?
 
-Insights into geography and marriage type
+---
 
-Key Questions Answered
+## **Main Insights**  
+- Women generally marry younger than men  
+- San José had the highest number of marriages overall  
+- Religious and civil marriages vary by province  
+- December is the peak month for weddings every year  
 
-What is the average age at marriage by gender?
+---
 
-Which province has the most marriages?
+## **Final Thoughts**  
+This was one of my first full data projects with real records. It gave me valuable experience with:
 
-Are there seasonal patterns in marriage?
+- Cleaning and organizing large datasets  
+- Analyzing and comparing patterns  
+- Creating dashboards that tell a story  
+---
 
-Do civil and religious marriages differ by province?
-
-Main Insights
-
-Women generally marry younger than men
-
-San José has the highest number of marriages
-
-Marriage type varies by region—some provinces prefer civil, others religious
-
-December is the most popular month for weddings every year
-
-Final Thoughts
-This was my first complete data project using real-world data. It gave me hands-on experience with every step of the analysis process—from cleaning and organizing to finding patterns and presenting results.
-
-I learned a lot through this process and feel more confident working with Excel and data in general. I’m excited to keep learning and apply these skills to new tools and bigger datasets in the future.
