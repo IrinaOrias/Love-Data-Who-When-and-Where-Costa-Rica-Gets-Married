@@ -1,102 +1,85 @@
-## **Costa Rica Marriage Trends (2014–2021)**
+Costa Rica Marriage Trends (2014–2021)
+Excel-Based Data Analysis Project
+By Irina Orias Mendoza
 
-**Full Excel-Based Data Analysis Project**
+Project Overview
+This project explores marriage data from Costa Rica between 2014 and 2021. Using Microsoft Excel, I cleaned, analyzed, and visualized the dataset to uncover patterns related to age, location, marriage type (civil or religious), and seasonal trends.
 
----
+The main goal was to strengthen my data analysis skills and learn how to turn raw data into useful insights. I focused on creating organized pivot tables, clear charts, and summary dashboards that tell a story.
 
-### **Summary**
+Why Excel
+I chose Excel because it’s one of the most commonly used tools in real-world data work. It allowed me to build the project from start to finish without needing to code. This helped me practice how to clean and explore data, and most importantly, how to present findings in a clear and visual way.
 
-In this project, I worked with real-world data on marriages in Costa Rica from 2014 to 2021. I used Excel to explore, clean, analyze, and visualize the dataset. The goal was to discover patterns related to age, location, seasonality, and marriage type (civil or religious). I built pivot tables, cleaned and structured the data, and designed dashboards to communicate key insights.
+This project shows I can work independently, pay attention to detail, and communicate insights using real data.
 
----
+Data Source
+The dataset comes from the Instituto Nacional de Estadística y Censos (INEC) in Costa Rica. It includes national marriage records from 2014 through 2021.
 
-### **Why I Chose Excel for This Project**
+Steps I Followed
 
-I found it important to start with a full Excel project because Excel is one of the most commonly used tools in real-world data roles. Building this project from start to finish helped me practice how to explore, clean, and analyze data, and most importantly, how to communicate insights clearly. It shows that I can take a raw dataset, make sense of it, and deliver useful information through organized dashboards and visuals. It also shows attention to detail and the ability to work independently on a data question—all valuable skills in any data-driven role.
+1. Initial Exploration
+I opened the dataset and reviewed all available columns. These included gender, age, nationality, type of marriage, occupation, and province of both residence and ceremony. I started thinking about possible questions the data could help answer.
 
----
+2. Listing Unique Values
+I made a list of all the unique values in each column to:
 
-### **Source of the Dataset**
+Spot inconsistent spelling (like “Setiembre” vs. “Septiembre”)
 
-**Instituto Nacional de Estadística y Censos (INEC), Costa Rica – Matrimonios 2014–2021**
+Understand the variety of categories (e.g., all types of marriages, provinces, occupations)
 
----
+3. Cleaning the Data
+Before starting the analysis, I cleaned the dataset:
 
-### **Project Steps**
+Fixed spelling inconsistencies
 
-#### **Step 1: Data Exploration (Initial Review)**
+Verified that age columns contained only valid numbers
 
-* Opened the dataset containing marriage records in Costa Rica from 2014 to 2021.
-* Reviewed all available columns (e.g., age, gender, province, type of union, occupation, nationality, etc.).
-* Identified the overall structure of the dataset and began exploring possible directions for analysis.
+Removed duplicates and outliers
 
-#### **Step 2: Unique Value Identification**
+Checked for missing or incorrect values
 
-* Created a list of unique values per column to:
+4. Structuring for Analysis
+I created new sheets in the Excel file to organize the data into smaller, cleaner tables. These were easier to use for pivot tables and visuals. I built separate sheets for average ages, marriage counts by year, and monthly patterns.
 
-  * Detect inconsistent values (e.g., spelling variations like “Setiembre” instead of “Septiembre”).
-  * Understand the full range of categories in each field (e.g., all provinces, types of marriage, occupations, etc.).
+5. Analyzing Average Age at Marriage
+I used pivot tables to calculate average marriage age for men and women, based on their recorded age at the time of marriage. The data showed that women usually marry at a younger age than men.
 
-#### **Step 3: Data Cleaning**
+6. Mapping Marriages by Province
+I looked at where people lived and where the ceremony took place. Using pivot tables and charts, I found that San José had the most marriages overall. I also compared civil vs. religious marriages by province.
 
-* Standardized spelling of months and province names.
-* Verified that age columns contained only numeric values within a realistic range.
-* Handled potential outliers (e.g., extreme ages or unusual locations).
-* Checked for duplicates or missing values where necessary.
+7. Exploring Seasonality
+I used bar charts to show how many marriages happened each month across the years. December was clearly the most popular month. I noted that this could be due to holiday traditions, end-of-year bonuses, or good weather.
 
-#### **Step 4: Data Structuring for Analysis**
+8. Creating Dashboards
+I built a summary dashboard to show all major findings. It includes:
 
-* Created new sheets to organize and filter data.
-* Prepared cleaner data tables for use in pivot tables and visualizations.
-* Created separate tabs for average age, marriage counts, and monthly trends.
+Key statistics
 
-#### **Step 5: Average Age Analysis by Gender**
+Charts showing trends by month and year
 
-* Built pivot tables using:
+Insights into geography and marriage type
 
-  * sexo_contrayente_1 and sexo_contrayente_2
-  * Edad_matrimonio_contrayente_1 and Edad_matrimonio_contrayente_2
-* Calculated average age at marriage for both men and women.
+Key Questions Answered
 
-#### **Step 6: Geographic Distribution Analysis**
+What is the average age at marriage by gender?
 
-* Built pivot tables to analyze marriage counts by:
+Which province has the most marriages?
 
-  * Province of residence
-  * Province where the ceremony took place
-* Identified regions with the highest number of marriages.
+Are there seasonal patterns in marriage?
 
-#### **Step 7: Seasonality Patterns**
+Do civil and religious marriages differ by province?
 
-* Created bar charts to track marriage trends by month and year.
-* Identified seasonal patterns and highlighted December as a peak month.
-* Considered cultural and weather-related reasons behind seasonality.
+Main Insights
 
-#### **Step 8: Final Insights and Visualization**
+Women generally marry younger than men
 
-* Summarized the results in visual dashboards.
-* Highlighted key metrics (KPIs), trends, and major discoveries.
-* Made the file presentation-ready with clean formatting and charts.
+San José has the highest number of marriages
 
----
+Marriage type varies by region—some provinces prefer civil, others religious
 
-### **Questions We Answered**
+December is the most popular month for weddings every year
 
-* What is the average age at marriage by gender?
-* Which province has the highest number of marriages?
-* Are there any seasonal patterns in marriages?
-* Are there differences between civil and religious marriages across provinces?
+Final Thoughts
+This was my first complete data project using real-world data. It gave me hands-on experience with every step of the analysis process—from cleaning and organizing to finding patterns and presenting results.
 
----
-
-### **General Conclusions**
-
-* Women tend to marry at a younger age than men.
-* San José is the province with the highest number of marriages.
-* Religious marriages are more common in specific provinces, while civil marriages dominate in others.
-
----
-
-### **One Big Finding**
-
-There is a clear seasonal trend in marriage patterns. **December** stands out every year as the most popular month to get married in Costa Rica—likely due to **holidays, cultural traditions, or favorable weather conditions**.
+I learned a lot through this process and feel more confident working with Excel and data in general. I’m excited to keep learning and apply these skills to new tools and bigger datasets in the future.
