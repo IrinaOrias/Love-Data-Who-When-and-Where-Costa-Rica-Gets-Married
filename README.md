@@ -16,7 +16,7 @@ The goal was to strengthen my data analysis skills by turning raw records into u
 
 ---
 
-## 🛠**Why Excel**  
+## **Why Excel**  
 I chose Excel because it’s one of the most widely used tools in data jobs. It allowed me to:
 
 - Practice data cleaning without writing code  
