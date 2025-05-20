@@ -9,8 +9,9 @@
 
 ---
 
-### Objective  
-The objective of this project was to analyze marriage trends in Costa Rica from **2014 to 2021** using **Microsoft Excel**. This involved uncovering patterns related to **age**, **geographic location**, **marriage type** (civil or religious), and **seasonality**.
+### Objective & Business Impact
+
+This project analyzes Costa Rican marriage trends (2014–2021) using Microsoft Excel to uncover patterns in age, location, marriage type, and seasonality — enabling public offices, event planners, and policymakers to allocate resources more effectively, plan around peak periods, and adapt civil services to evolving social preferences.
 
 ---
 
@@ -30,16 +31,7 @@ The objective of this project was to analyze marriage trends in Costa Rica from 
 
 ---
 
-### Business Impact
-
-- **Operational Planning**  
-  Seasonality and provincial marriage trends can guide **event planners**, **public offices**, and **vendors** in better resource allocation and service planning.
-
-- **Policy & Community Programs**  
-  The dominance of civil marriages may support decisions related to **civil registry capacity**, **policy updates**, or **public service outreach**.
-
----
-## Objective
+### Objective
 
 To analyze national marriage data from Costa Rica (2014–2021) to identify trends in age at marriage, geographic distribution, type of marriage (civil vs. religious), and seasonality. The goal is to extract actionable insights for stakeholders such as civil authorities, event planners, and researchers.
 
