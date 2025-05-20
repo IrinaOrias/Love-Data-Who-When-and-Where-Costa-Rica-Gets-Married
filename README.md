@@ -28,13 +28,6 @@ This project analyzes Costa Rican marriage trends (2014–2021) using Microsoft 
 
 - **Seasonal Behavior**  
   **December** stands out each year as the most popular month for weddings.
-
----
-
-### Objective
-
-To analyze national marriage data from Costa Rica (2014–2021) to identify trends in age at marriage, geographic distribution, type of marriage (civil vs. religious), and seasonality. The goal is to extract actionable insights for stakeholders such as civil authorities, event planners, and researchers.
-
 ---
 
 ## Data Overview
