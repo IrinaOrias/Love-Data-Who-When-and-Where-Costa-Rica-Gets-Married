@@ -33,7 +33,7 @@ This project analyzes Costa Rican marriage trends (2014–2021) using Microsoft 
 ## Data Overview
 
 **Source:**  
-Instituto Nacional de Estadística y Censos (INEC), Costa Rica LINK
+The dataset used for this project was obtained from [Kaggle](https://www.kaggle.com/datasets/liamarguedas/costa-rica-total-marriages-2014-2021), where it was published based on official records from Costa Rica's **Instituto Nacional de Estadística y Censos (INEC)**. It contains **191,562 marriage records** from 2014 to 2021, including variables such as age, gender, type of marriage, location, and more.
 
 **Size:**  
 191,562 marriage records from 2014 to 2021
