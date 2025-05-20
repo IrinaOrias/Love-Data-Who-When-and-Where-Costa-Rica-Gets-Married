@@ -62,33 +62,6 @@ Includes marriage details such as:
 - Some entries showed **unrealistic ages** (e.g., 0 years) — filtered during data cleaning.
 - **Inconsistencies in month names** (e.g., "Setiembre") were corrected to ensure accurate time-based trends.
 
-##  Key Findings
-
-- Civil marriages significantly outnumber religious ones in **all provinces**.
-- **San José** reports the highest number of marriages each year.
-- **December** is the peak month for weddings across the country.
-- **Women consistently marry younger** than men across all years.
-- Most unions are between **Costa Rican nationals**, with a small portion involving foreigners.
-- **Urban areas** show notably higher marriage volumes than rural zones.
-- The average age at marriage is in the **early 30s for men** and **late 20s for women**.
-
----
-
-##  Recommendations
-
-- **Tailor services and campaigns to December**, the most popular wedding month.
-- **Prioritize civil marriage services**, especially in urban centers, to meet demand.
-- **Develop age-specific outreach strategies**, acknowledging the younger average age for women.
-- **Target San José** with enhanced wedding-related offerings, given its leading numbers.
-- **Enhance civil registry services in urban centers**, particularly in high-volume provinces like San José, to meet consistently high demand.
-- **Extend operating hours during peak months**, especially December, to accommodate the seasonal surge in marriages.
-- **Improve access in rural areas** by digitizing marriage declaration processes and offering mobile registry services.
-- **Plan staffing and resource allocation** based on observed seasonal and geographic trends to increase administrative efficiency.
-- **Design public education campaigns** around legal rights and responsibilities, focusing on age-related marriage trends and informed decision-making.
-- **Develop support programs for younger marrying populations**, particularly women, to promote awareness and empowerment.
-- **Promote intercultural integration strategies** in provinces with a notable presence of binational unions, ensuring smoother documentation and social support.
-
-
 ## Key Findings
 
 - Civil marriages significantly outnumber religious ones in **all provinces**, highlighting a nationwide preference for civil unions.
