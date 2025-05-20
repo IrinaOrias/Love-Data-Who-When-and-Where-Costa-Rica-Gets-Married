@@ -81,9 +81,6 @@ Includes marriage details such as:
 - Some entries showed **implausible ages** (e.g., underage spouses or extremely high values) — filtered during data cleaning.
 - **Inconsistencies in month names** (e.g., "Setiembre") were corrected to ensure accurate time-based trends.
 
-Here’s a compact, well-formatted version of **Key Findings** and **Recommendations** in clean GitHub-style markdown—no emojis, optimized for readability and copy-paste:
-
-```markdown
 ## 📌 Key Findings
 
 - Civil marriages significantly outnumber religious ones in **all provinces**.
