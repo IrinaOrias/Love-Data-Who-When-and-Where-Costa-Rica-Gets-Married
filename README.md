@@ -57,6 +57,9 @@ Includes marriage details such as:
 - **December is the most popular month** for weddings, showing clear seasonal peaks.
 - **Urban zones report more marriages** than rural areas, indicating population density impact.
 
+  ![Civil Marriages Trend](Images/Civil_tendency.PNG "Civil Marriages Trend")
+
+
 **Notable Outliers:**
 
 - Some entries showed **unrealistic ages** (e.g., 0 years) — filtered during data cleaning.
