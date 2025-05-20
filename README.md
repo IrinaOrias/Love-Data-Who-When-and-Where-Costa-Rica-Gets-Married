@@ -39,5 +39,30 @@ The objective of this project was to analyze marriage trends in Costa Rica from 
   The dominance of civil marriages may support decisions related to **civil registry capacity**, **policy updates**, or **public service outreach**.
 
 ---
+## Objective
 
+To analyze national marriage data from Costa Rica (2014–2021) to identify trends in age at marriage, geographic distribution, type of marriage (civil vs. religious), and seasonality. The goal is to extract actionable insights for stakeholders such as civil authorities, event planners, and researchers.
+
+---
+
+## Data Overview
+
+**Source:**  
+Instituto Nacional de Estadística y Censos (INEC), Costa Rica LINK
+
+**Size:**  
+191,562 marriage records from 2014 to 2021
+
+**Features:**  
+Includes marriage details such as:
+
+- **Dates:** Year/month of processing, marriage, and declaration  
+- **Marriage Type:** Civil or religious  
+- **Couple Type & Gender:** For both spouses  
+- **Age:** Exact age, age at marriage, and age range  
+- **Nationality & Country:** Of both spouses  
+- **Occupation:** Of both spouses  
+- **Previous Marital Status:** Civil status and number of past marriages  
+- **Geographic Info:** Province, canton, and district of residence and occupation  
+- **Zone:** Urban or rural  
 
