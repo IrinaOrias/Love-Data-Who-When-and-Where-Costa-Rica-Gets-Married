@@ -1,4 +1,3 @@
----
 
 # **Costa Rica Marriage Trends (2014–2021)**  
 ### *Excel-Based Data Analysis Project*  
