@@ -65,7 +65,7 @@ Includes marriage details such as:
 - **Previous Marital Status:** Civil status and number of past marriages  
 - **Geographic Info:** Province, canton, and district of residence and occupation  
 - **Zone:** Urban or rural
-- 
+
 ##  Exploratory Data Analysis
 
 **Key Trends and Observations:**
@@ -99,9 +99,3 @@ Includes marriage details such as:
 - **Prioritize civil marriage services**, especially in urban centers, to meet demand.
 - **Develop age-specific outreach strategies**, acknowledging the younger average age for women.
 - **Target San José** with enhanced wedding-related offerings, given its leading numbers.
-
-```
-
-
-
-
