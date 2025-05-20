@@ -64,5 +64,20 @@ Includes marriage details such as:
 - **Occupation:** Of both spouses  
 - **Previous Marital Status:** Civil status and number of past marriages  
 - **Geographic Info:** Province, canton, and district of residence and occupation  
-- **Zone:** Urban or rural  
+- **Zone:** Urban or rural
+- 
+##  Exploratory Data Analysis
+
+**Key Trends and Observations:**
+
+- **Civil marriages dominate** across all provinces, with significantly higher counts than religious ceremonies.
+- **Women marry younger** than men on average in every region and year.
+- **San José consistently leads** in number of marriages performed and declared.
+- **December is the most popular month** for weddings, showing clear seasonal peaks.
+- **Urban zones report more marriages** than rural areas, indicating population density impact.
+
+**Notable Outliers:**
+
+- Some entries showed **implausible ages** (e.g., underage spouses or extremely high values) — filtered during data cleaning.
+- **Inconsistencies in month names** (e.g., "Setiembre") were corrected to ensure accurate time-based trends.
 
