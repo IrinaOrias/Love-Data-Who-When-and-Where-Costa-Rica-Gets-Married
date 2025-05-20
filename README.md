@@ -57,8 +57,17 @@ Includes marriage details such as:
 - **December is the most popular month** for weddings, showing clear seasonal peaks.
 - **Urban zones report more marriages** than rural areas, indicating population density impact.
 
-  ![Civil Marriages Trend](Images/Civil_tendency.PNG "Civil Marriages Trend")
+ ### Civil Marriages Dominate Over Time  
+![Civil Marriages Trend](Images/Civil_tendency.PNG "Civil Marriages Trend")
 
+### Urban Areas Concentrate the Majority of Marriages  
+![Urban Concentration](Images/Concentration_Urban.PNG "Urban Marriage Concentration")
+
+### December: The Most Popular Month for Weddings  
+![December Trend](Images/December_Tendency.PNG "December Marriage Trend")
+
+### San José: Consistently Leading in Marriage Volumes  
+![San José Trend](Images/San_Jose_Tendency.PNG "San José Marriage Trend")
 
 **Notable Outliers:**
 
