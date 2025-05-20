@@ -91,6 +91,4 @@ Includes marriage details such as:
 - **Enhance civil registry services in major urban areas** to manage consistently high demand efficiently.
 - **Align staffing and resource planning with observed seasonal and geographic trends** to improve administrative efficiency.
 - **Use less active months to conduct maintenance, staff training, and process improvements**, maximizing efficiency without impacting service delivery.
-- **Develop targeted promotions or incentives during low-activity months** to balance demand and support smaller vendors or venues.
-- **Encourage off-season weddings April to October by highlighting benefits such as lower costs and availability**, helping to distribute workload more evenly throughout the year.
-
+- **Develop targeted promotions or incentives during low-activity months April to October** to balance demand and support smaller vendors or venues.
