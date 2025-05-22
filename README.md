@@ -79,9 +79,11 @@ Includes marriage details such as:
 - Civil marriages significantly outnumber religious ones in **all provinces**, highlighting a nationwide preference for civil unions.
 - Among all provinces, **San José** stands out as the leading location, reporting the highest number of marriages every year.
 - **December** consistently emerges as the peak month for weddings, reflecting cultural and seasonal influences on marriage timing.
-- A clear age pattern appears: **women marry younger than men**, with average ages in the late 20s for women and early 30s for men.
 - **Urban areas experience higher volumes of marriages** than rural zones, suggesting population density and accessibility affect marriage rates.
 - The data shows steady marriage volumes from 2014 to 2021, indicating stable social and demographic trends during this period.
+
+
+
 
 ---
 
