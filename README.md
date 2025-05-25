@@ -82,15 +82,20 @@ Includes marriage details such as:
 - **Urban areas experience higher volumes of marriages** than rural zones, suggesting population density and accessibility affect marriage rates.
 - The data shows steady marriage volumes from 2014 to 2021, indicating stable social and demographic trends during this period.
 
-
-
-
 ---
 
 ## Recommendations
 
-- **Prioritize civil marriage services** in urban centers to address the high demand and streamline administrative processes.
-- **Enhance civil registry services in major urban areas** to manage consistently high demand efficiently.
-- **Align staffing and resource planning with observed seasonal and geographic trends** to improve administrative efficiency.
-- **Use less active months to conduct maintenance, staff training, and process improvements**, maximizing efficiency without impacting service delivery.
-- **Develop targeted promotions or incentives during low-activity months April to October** to balance demand and support smaller vendors or venues.
+1. **Expand civil marriage service capacity** in urban centers (e.g., San José, Alajuela, Heredia) by increasing **processing stations or appointment slots by 20% within the next 12 months** to meet the high and consistent demand identified in the data.
+
+2. **Upgrade civil registry systems** in high-volume provinces by implementing **digital pre-registration and appointment booking tools by the end of Q3** to reduce in-office wait times and administrative backlog.
+
+3. **Adjust staffing schedules** to increase personnel availability by **at least 15% during December and January**, based on historical peak volume trends, while redistributing workloads from low-demand periods.
+
+4. **Allocate April through October** to conduct **facility maintenance, digitization of records, and staff training sessions**, ensuring these activities are completed without interfering with the December peak season.
+
+5. **Launch localized marketing campaigns or financial incentives** (e.g., **10% discount on civil ceremony fees** or venue partnerships) between **April and October** to increase marriage volumes during historically low-activity periods and support small event vendors.
+
+## Conclusion
+
+This project converted over **191,000 official marriage records** into a **strategic decision-making tool**. It supports **smarter planning in civil registry services**, informs **targeted policy interventions**, and enables **private sector actors** to align offerings with clear **seasonal and geographic patterns** in Costa Rica's marriage behavior.
